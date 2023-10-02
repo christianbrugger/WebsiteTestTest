@@ -1,11 +1,11 @@
 ---
-title: All posts
 layout: allposts
-landing-title: All posts
+title: All posts
+landing-title: 'All posts'
 nav-menu: true
-description: 
-image: 
-author: 
+description: null
+image: null
+author: null
 show_tile: false
 ---
 
